@@ -1,4 +1,4 @@
-## Hello there! I'm [Luis Angel](linktr.ee/LinkSake) ✌️
+## Hello there! I'm [Luis Angel](https://luisangel.me/) ✌️
 If you’re looking for an author, not just of stories but of code, search no more! ✨
 
 
