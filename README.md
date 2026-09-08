@@ -1,8 +1,17 @@
-## Hello there! I'm [Luis Angel](https://luisangel.me/) ✌️
-If you’re looking for an author, not just of stories but of code, search no more! ✨
+# hi, I'm luis ángel 👋
 
+software engineer, writer and poet from Chihuahua, México.
 
-I’m a developer 🧑‍💻 who is a **Elixir** and **Ruby** enthusiast, although I’ve worked with **Rust**, **Phyton** and **React/Vue/Svelte**. Currently I'm working at [PepsiCo](https://www.pepsico.com.mx/) as a Software Engineer. 
+## whoami
 
+curious by nature, which has led me down a lot of rabbit holes I genuinely enjoy: tech, film, music, videogames, literature, philosophy, gardening, and gunpla. On the dev side I mostly reach for Elixir, Ruby, and Hugo, with some Rust, Python, and a bunch of JS along the way. By day I'm a Software Engineer at [PepsiCo](https://www.pepsico.com.mx/).
 
-*Fun fact:* Some of my free time goes to [creative writing](https://luisangel.me/categories/) and some [technical writing](https://luisangel.me/categories/articles) too! ✍️
+## currently
+
+- working on a Master's in Online Education at [UVEG](https://uveg.edu.mx/).
+- on the way to publish my first book, *El oficio de las cosas* — a FOMAC-funded and award winning short story collection about people and the objects they hold onto.
+- part of [El Telar](https://eltelar.xyz/), a writers' collective in Chihuahua (i also maintain the site!)
+
+## elsewhere
+
+[site](https://luisangel.me/) · [email](mailto:hey@luisangel.me) · [bluesky](https://bsky.app/profile/linksake.bsky.social) · [substack (en)](https://linksake.substack.com) · [substack (es)](https://luisangelortega.substack.com)
