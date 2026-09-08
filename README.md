@@ -1,4 +1,4 @@
-# hi, I'm luis ángel 👋
+# hi, I'm luis ángel
 
 software engineer, writer and poet from Chihuahua, México.
 
